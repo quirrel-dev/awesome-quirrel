@@ -1,29 +1,40 @@
 # Awesome Quirrel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Quirrel-related things
-
+> A curated list of [Quirrel](https://quirrel.dev)-related things
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Examples](#examples)
+- [Projects](#projects)
+- [Articles](#articles)
+- [Official](#official)
 
+## Examples
 
-## Section
+- [Cypress](https://github.com/quirrel-dev/cypress-example)
+- [demo.quirrel.dev Source Code](https://github.com/quirrel-dev/demo.quirrel.dev)
+- [Blitz](https://github.com/quirrel-dev/quirrel/tree/main/examples/blitz)
+- [Next](https://github.com/quirrel-dev/quirrel/tree/main/examples/next)
+- [Express](https://github.com/quirrel-dev/quirrel/tree/main/examples/express)
+- [Nuxt](https://github.com/quirrel-dev/quirrel/tree/main/examples/nuxt)
+- [Redwood](https://github.com/quirrel-dev/quirrel/tree/main/examples/redwood)
 
-About this section. Optional. Keep this short and focus on the list.
+## Projects
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+Open Source Projects that make use of Quirrel.
 
+- [Mensaje (company-wide announcements via Slack)](https://github.com/ingenious-agency/mensaje)
 
-## Another Section
+[Add your own Project](https://github.com/quirrel-dev/awesome-quirrel/edit/main/create-list.md)
 
-### Subsection
+## Articles
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Building a water-drinking reminder with Next.js and Quirrel](https://dev.to/quirrel/building-a-water-drinking-reminder-with-next-js-and-quirrel-1ckj)
 
+## Official
+
+- [Quirrel Repository](https://github.com/quirrel-dev/quirrel)
+- [Hosted Quirrel](https://quirrel.dev)
 
 ## Contribute
 
